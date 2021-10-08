@@ -1,0 +1,6 @@
+need to fix dupe glitch by setting items room to null when picked up
+
+
+
+(╯°□°）╯︵ ┻━┻
+
